@@ -20,4 +20,28 @@ Year 3: Term abroad in Hong Kong, Databases and The Web, Final Year Project: Cul
 ### Skills
 
 ### Projects
+#### Year 3
+Car driving game - Computer Graphics (CityU Hong Kong)
+An interactive car driving game coded in openGL utilising:
+- Primitives and Primitive Attributes
+- Light and Shading
+- Viewing: Camera and Projection
+- Transformations
+- Texture Mapping
+- Interaction, Keyboard, Mouse and Menus
+- 3D OBJ model & NURBS Surface
+<img width="527" alt="Screenshot 2025-01-12 at 23 29 56" src="https://github.com/user-attachments/assets/847450c2-565f-4a98-8e40-21e47a336e48" />
+
+#### Year 2
+Assembly, The GitLab Collaboration Software - Mar 2024
+
+- GitLab
+- A group project for second year of university.
+- Links a user's GitLab account to our website to create group chats.
+<img width="539" alt="Screenshot 2025-01-12 at 23 32 36" src="https://github.com/user-attachments/assets/2b522e26-ddbd-42bd-b8ae-8a78d086f5b6" />
+
+  
+
+
+
 
