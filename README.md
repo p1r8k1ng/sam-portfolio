@@ -21,6 +21,13 @@ Year 3: Term abroad in Hong Kong, Databases and The Web, Final Year Project: Cul
 
 ### Projects
 #### Year 3
+
+Art Gallery Application - November 2024
+An art gallery application:
+- Made using EJS, MySQL and CSS.
+- Extended my knowledge of APIs as I used an existing one and also created my own API
+<img width="670" alt="Screenshot 2025-01-13 at 00 01 23" src="https://github.com/user-attachments/assets/759250a0-6d26-4a38-a29c-7eee0322eb23" />
+
 Car driving game - Computer Graphics (CityU Hong Kong)
 An interactive car driving game coded in openGL utilising:
 - Primitives and Primitive Attributes
@@ -33,6 +40,11 @@ An interactive car driving game coded in openGL utilising:
 <img width="527" alt="Screenshot 2025-01-12 at 23 29 56" src="https://github.com/user-attachments/assets/847450c2-565f-4a98-8e40-21e47a336e48" />
 
 #### Year 2
+Hangman Game - May 2024
+- a Hangman game made using Java
+- Learnt how to create a GUI for an interactive experience
+<img width="663" alt="Screenshot 2025-01-12 at 23 54 12" src="https://github.com/user-attachments/assets/0af1760b-c106-4d10-8a9f-6060ba3f32dc" />
+
 Assembly, The GitLab Collaboration Software - Mar 2024
 
 - GitLab
