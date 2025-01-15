@@ -97,7 +97,9 @@ Assembly, The GitLab Collaboration Software - Mar 2024
 
 #### Year 1
 Game Project
+
 <img width="740" alt="Screenshot 2025-01-15 at 23 07 31" src="https://github.com/user-attachments/assets/7c61556c-8576-4c01-a94c-c4fa8502b8ee" />
+
 Skills developed and outcomes:
 
 Understanding the basic ideas of programming, including variables and memory.
