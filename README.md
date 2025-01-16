@@ -1,28 +1,27 @@
 # Sam's Portfolio
 
 ### Professional Summary
-I am a results-oriented individual passionate about blending creativity with technology to craft innovative computational art solutions. With a proactive mindset and strong communication skills, I bring adaptability, collaboration, and a commitment to excellence to every project. My dynamic approach to problem-solving, combined with a keen eye for artistic expression and technical precision, allows me to thrive in diverse, fast-paced environments. Confident and skilled at engaging with individuals across all levels, I leverage my commercial insight and ambitious "can-do" attitude to drive impactful results. I am excited to contribute to a forward-thinking team dedicated to pushing the boundaries of art and technology.
+I am a results-oriented Computer Science graduate looking to expand my professional experience in computational arts. With a proactive mindset and strong communication skills, I bring an enthusiastic commitment to excellence in every project. My dynamic approach to problem-solving, combined with a keen eye for artistic expression and technical precision, allows me to thrive in diverse, fast-paced environments. I leverage my commercial insight and "can-do" attitude to craft innovative creative solutions.
 
 ### Work Experience
 #### IT support @ Goldsmiths University
+I have spent last summer working full-time in a fast-paced team environment troubleshooting hardware issues within the university. The placement significantly broadened my scope of technical assets, alongside interpersonal skills, such as conflict resolution, leadership, and intern training.
 
 #### Goldsmiths University ambassador — 2022 to present
-I have actively contributed to various university events and initiatives as a Goldsmiths Ambassador. My roles have included administration for graduation events, campus tour training and delivery, student recruitment support, open days participation, and assistance in various Widening Participation programs. These experiences have enhanced my communication, organisational, and teamwork skills while fostering a strong sense of university-community engagement.
+I have actively contributed to various university events and initiatives. My roles have included administration for graduation events, campus tour delivery, student recruitment support, open days participation, and assistance in various Widening Participation programs. These experiences have enhanced my communication, organisational, and teamwork skills while fostering a commitment towards community engagement.
 
 ### Education
 #### BSc Computer Science – Predicted 1st
 Goldsmiths, University of London | Sept 2022 – Jun 2025
-
-Year 1: Introduction to Programming, Fundamentals of CS, Front End Web, Problem Solving, Graphics, Numerical Mathematics, Symbolic Mathematics, Programming Project.
-Year 2: Algorithms 1 & 2, Fundamentals of CS, Java for Industry, Extended Java, Dynamic Web Applications.
-Year 3: Term abroad in Hong Kong, Databases and The Web, Final Year Project: Cultural Heritage Data Visualisation.
+First expected.
+Front End Web, Graphics, Dynamic Web Applications. Final Year Project: Cultural Heritage Data Visualisation.
 
 ### Skills
 Technical Skills
-- Software Development: Proficient in designing and implementing software solutions across various domains, with a focus on computational art and interactive applications.
-- Web Development: Skilled in creating dynamic and responsive web applications, including front-end (HTML, CSS, JavaScript) and back-end (Node.js, SQL).
+- Software Development: Proficient in designing and implementing solutions across various domains with a focus on computational art and interactive applications.
+- Web Development: Skilled in creating dynamic and responsive applications, including front-end (HTML, CSS, JavaScript) and back-end (Node.js, SQL).
 - 3D Modelling & Rendering: Expertise in using OpenGL for rendering interactive 3D graphics, including NURBS surfaces and complex transformations.
-- Game Development: Experience building interactive games using Java and OpenGL, focusing on immersive user experiences.
+- Game Development: Building interactive games using Java and OpenGL, focusing on immersive user experiences.
 - Data Visualisation: Familiarity with visualising complex datasets to enhance cultural heritage and storytelling projects.
   
 Artistic & Analytical Skills
@@ -37,7 +36,7 @@ Programming Languages
 
   
 Soft Skills
-- Team Collaboration: Strong ability to work effectively within teams, demonstrated in collaborative projects like Assembly and university ambassador roles.
+- Team Collaboration: Strong ability to work effectively with multiple individuals from various backgrounds, demonstrated in collaborative projects like Assembly and university ambassador roles.
 - Communication: Excellent written and verbal communication skills, showcased through essays, technical documentation, and public presentations.
 - Adaptability: Flexible and quick to learn new tools and frameworks, enabling seamless integration into dynamic, fast-paced environments.
 
